@@ -9,7 +9,7 @@ import java.net.URL;
 import javax.imageio.ImageIO;
 
 public class Hero {
-
+//sdfsdfsdfsdfsdfsdf
 	BufferedImage sprite;
 	String name;
 	int x;
